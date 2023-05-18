@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+    body{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        background-color:lightsalmon;
+
+    }
+    h1{
+        color: brown;
+    }
+    h2{
+        color: blueviolet;
+    }
+    h3{
+        color: yellowgreen;
+    }
+    h4{
+        color:red;
+    }
+    h5{
+        color: indigo;
+    }
+    h6
+    {
+        color: olive;
+    }
+   h1,h2,h3,h4,h5,h6{
+    font-family: 'Pacifico', cursive;
+   }
+   table{
+    background-color: gold;
+   }
+   p{
+    background-color: lightseagreen;
+   }
+   .list-items{
+    background-color: darkgreen;
+   }
+   .list-items li:hover{ 
+    color: ;
+   }
+
+   
+
+
